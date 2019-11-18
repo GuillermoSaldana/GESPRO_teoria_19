@@ -13,7 +13,7 @@ Repositorio para gestionar el aprendizaje de conceptos de agilidad con SCRUM. Ta
 7. [Andrés Rodriguez](https://github.com/andriu99)
 8. [Sergio Revilla](https://github.com/srevilla99)
 
-##Tarea
+## Tarea
 
 Buenos días,
 
