@@ -5,7 +5,7 @@ Repositorio para gestionar el aprendizaje de conceptos de agilidad con SCRUM. Ta
 ## Grupos
 
 1. [Flavio Guerrero](https://github.com/flavioguerrerov)
-2. [Miguel Arroyo](https://github.com/miguelarroyo-ubu)
+2. [Miguel Arroyo](https://github.com/miguelarroyo-ubu) - El nuevo escenario
 3. [Francisco Martin Vargas](https://github.com/fmv1001) Gestión de proyectos ágil
 4. [Jesus González Alonso](https://github.com/jga1006) Gestión de proyectos: ¿formal o ágil?
 5. [Guillermo Saldaña](https://github.com/GuillermoSaldana)
