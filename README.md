@@ -10,7 +10,7 @@ Repositorio para gestionar el aprendizaje de conceptos de agilidad con SCRUM. Ta
 4. [Jesus González Alonso](https://github.com/jga1006) Gestión de proyectos: ¿formal o ágil?
 5. [Guillermo Saldaña](https://github.com/GuillermoSaldana)
 6. [Carlos Ortuñez](https://github.com/CarlosOrtu)
-7. [Andrés Rodriguez](https://github.com/andriu99)
+7. [Andrés Rodriguez](https://github.com/andriu99) Los elementos de Scrum
 8. [Sergio Revilla](https://github.com/srevilla99)
 9. [Eduardo Pérez](https://github.com/eduperz) - Medición: Consideraciones, las unidades y uso de herramientas
 
