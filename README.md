@@ -12,7 +12,7 @@ Repositorio para gestionar el aprendizaje de conceptos de agilidad con SCRUM. Ta
 6. [Carlos Ortuñez](https://github.com/CarlosOrtu)
 7. [Andrés Rodriguez](https://github.com/andriu99)
 8. [Sergio Revilla](https://github.com/srevilla99)
-9. [Eduardo Pérez](https://github.com/eduperz)
+9. [Eduardo Pérez](https://github.com/eduperz) - Medición: Consideraciones, las unidades y uso de herramientas
 
 ## Tarea
 
